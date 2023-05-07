@@ -1,5 +1,6 @@
 # portfolio
 Data Science Project
+
 This Data Science project serves the purpose to document my programming skills and my knowledge in 
 quantitative analysis of data (including data cleaning, data visualization, data mining).
 
